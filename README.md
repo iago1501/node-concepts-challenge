@@ -1,6 +1,6 @@
 Projeto criado para o desafio do módulo 1 da rocketseat, conceitos de Node
 
-## Available Scripts
+## Scripts disponíveis
 
 Para rodar o projeto basta executar
 
